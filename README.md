@@ -1,4 +1,4 @@
-# alura-plus
+# Alura Plus
 
 Projeto desenvolvido como parte do curso da plataforma Alura.
 
